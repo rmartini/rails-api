@@ -1,0 +1,11 @@
+.git
+*Dockerfile*
+*docker-compose*
+db/*.sqlite3
+log/*
+tmp/*
+README.rdoc
+public/develop/*
+.elasticbeanstalk/*
+.ebextensions/*
+**/.DS_Store
